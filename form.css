@@ -1,0 +1,49 @@
+body{
+    background-color: #FDCEDF;
+}
+label{
+    font-size: 1.75rem;
+}
+img{
+    width: 550px;
+    height:350px;
+}
+img:hover{
+    background-color: aquamarine;
+}
+.nam{
+    color: #116D6E;
+    padding: 10px 6px;
+    margin: 15px 2px;
+    font-size: 2rem;
+}
+
+.num{
+    color:#7E1717;
+    padding: 11px 4px;
+    margin: 13px 4px;
+    font-size: 1.5rem;
+}
+#anm{
+    color:#DB005B;
+    font-size: 1.8rem;
+    padding: 10px 11px;
+    margin: 5px 14px;
+}
+.pwd{
+    color: aquamarine;
+    padding: 5px 3px;
+    margin: 12px 1px;
+    font-size: 3rem;
+}
+.dt{
+    color:#FFB84C;
+    padding:12px 15px;
+    margin: 10px 15px;
+    font-size: 1.6rem;
+}
+iframe{
+    padding: 10px 11px;
+    margin: 12px 10px;
+
+}
